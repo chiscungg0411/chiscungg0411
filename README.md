@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Thông tin về mình
-- 🎓 Hiện đang học tại **Đại học Văn Hiến**, chuyên ngành **An toàn thông tin** (K22).
+- 🎓 Hiện đang học tại **Đại học Văn Hiến**, chuyên ngành **An toàn thông tin**.
 - 🛠 Yêu thích **Coding**, **Web Automation**, **Cybersecurity**.
 - 📚 Đam mê học hỏi công nghệ mới mỗi ngày.
 - 🎯 Mục tiêu: Trở thành một chuyên gia về **An toàn thông tin** và **AI Security**.
